@@ -1,0 +1,1 @@
+I am following the steps in the GitHub Docs Hello World page and adjusting it to work with Git and GitHub CLI rather than GitHub Desktop by also following along with the Create a repo GitHub Docs page.
